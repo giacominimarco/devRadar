@@ -18,7 +18,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
   </a>
 
-  <img alt="License" src="https://github.com/giacominimarco/devRadar">
+  <img alt="License" src="https://github.com/giacominimarco/devRadar/blob/main/LICENSE">
 </p>
 
 <p align="center">
@@ -50,4 +50,4 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
