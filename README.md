@@ -18,7 +18,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://github.com/giacominimarco/devRadar">
 </p>
 
 <p align="center">
